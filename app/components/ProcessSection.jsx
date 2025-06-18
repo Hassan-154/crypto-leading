@@ -4,7 +4,7 @@ import { Phone, Search, FileText, CheckCircle } from "lucide-react"
 function ProcessSection() {
   return (
     <section id="process" className="py-14 bg-gray-50">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-6xl mx-auto px-3 sm:px-4 xl:px-0">
           <div className="text-center mb-15">
             <h2 className="text-3xl lg:text-4xl font-bold text-periwinkle-blue">
               What to Expect When You Work With Us

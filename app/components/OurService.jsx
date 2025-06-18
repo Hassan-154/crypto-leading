@@ -4,7 +4,7 @@ import { Calculator, BookOpen, TrendingUp } from 'lucide-react'
 function OurService() {
   return (
     <section id="services" className="py-16 bg-[#E2E8F0]">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="max-w-6xl mx-auto px-3 sm:px-4 xl:px-0">
       <div className="text-center mb-12">
         <h3 className="text-3xl sm:text-4xl font-bold text-periwinkle-blue mb-4">Our Services</h3>
         <p className="text-lg text-gray-600">Comprehensive crypto accounting and tax solutions</p>

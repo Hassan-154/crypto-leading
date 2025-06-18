@@ -3,7 +3,7 @@ import React from 'react'
 function TrustedCrypto() {
   return (
     <section className="py-15 bg-gray-100">
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="max-w-6xl mx-auto px-3 sm:px-4 xl:px-0">
       <div className="text-center space-y-6">
         <h2 className="text-2xl lg:text-4xl font-bold text-periwinkle-blue">
           Your Trusted Crypto-Native Accounting Partner

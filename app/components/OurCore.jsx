@@ -3,7 +3,7 @@ import { CheckCircle } from 'lucide-react'
 
 function OurCore() {
   return (
-    <div className='px-4 sm:px-6 lg:px-8 bg-gray-100'>
+    <div className=' bg-gray-100 px-3 sm:px-4 xl:px-0'>
         <div className="rounded-2xl py-[35] sm:py-[50px] max-w-6xl mx-auto">
     <h3 className="text-3xl sm:text-4xl font-bold text-periwinkle-blue mb-7 sm:mb-9 text-center">Our Core Services Include</h3>
     <div className="grid md:grid-cols-2 gap-5 sm:gap-6 text-md sm:text-lg">
