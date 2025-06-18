@@ -1,0 +1,47 @@
+/* Sticky wrapper for scroll effect */
+.tabs_sticky-wrapper {
+  
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+/* Main component layout */
+.tabs_component {
+
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 1.5rem;
+  grid-template-rows: auto;
+  grid-template-columns: 0.4fr 1fr;
+  grid-auto-columns: 1fr;
+  padding-left: 3.3%;
+  padding-right: 3.3%;
+  display: grid;
+}
+@media (max-width: 576px) {
+  .tabs_component {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Content transitions */
+.tabs_let-content {
+  position: absolute;
+  opacity: 0;  
+  transition: opacity 0.5s;
+}
+
+.tabs_let-content.is-1 {
+  opacity: 1;
+}
+
+/* Video transitions */
+.tabs_image {
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.tabs_image.is-1 {
+  opacity: 1;
+}

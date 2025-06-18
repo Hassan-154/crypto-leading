@@ -1,0 +1,41 @@
+{
+  "footer": {
+    "company": {
+      "socialMedia": [
+        {
+          "url": "https://facebook.com",
+          "icon": "/images/Facebook.svg"
+        },
+        {
+          "url": "https://twitter.com",
+          "icon": "/images/twitter.svg"
+        },
+        {
+          "url": "https://instagram.com",
+          "icon": "/images/instagram.svg"
+        },
+        {
+          "url": "https://linkedin.com",
+          "icon": "/images/linkedin.svg"
+        }
+      ]
+    },
+    "more": [
+      { "name": "Contact us", "url": "" },
+      { "name": "Privacy Policy", "url": "" },
+      { "name": "Terms & Condition", "url": "" }
+    ],
+    "contact": [
+      {
+        "type": "email",
+        "value": "youraddress@yahoo.com",
+        "icon": "/images/sms.png"
+      },
+      {
+        "type": "phone",
+        "value": "(219) 565-0114",
+        "icon": "/images/call.png"
+      }
+    ]
+  }
+}

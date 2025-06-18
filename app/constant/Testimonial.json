@@ -1,0 +1,93 @@
+[
+  {
+    "profileImage": "/images/Oval.png",
+    "heading": "William Smith",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval.svg",
+    "heading": "Henry Clark",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (1).svg",
+    "heading": "Mia Wilson",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 4
+  },
+  {
+    "profileImage": "/images/Oval.png",
+    "heading": "Pedro Mendoza",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (4).svg",
+    "heading": "Sofia Lopez",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (3).svg",
+    "heading": "James Brown",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval.png",
+    "heading": "William Smith",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval.svg",
+    "heading": "Henry Clark",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 4
+  },
+  {
+    "profileImage": "/images/Oval (1).svg",
+    "heading": "Mia Wilson",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval.png",
+    "heading": "Pedro Mendoza",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (4).svg",
+    "heading": "Sofia Lopez",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (3).svg",
+    "heading": "James Brown",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 5
+  },
+  {
+    "profileImage": "/images/Oval (1).svg",
+    "heading": "Mia Wilson",
+    "description": "Lorem ipsum consectetur adipisicing eiusmod tempor incididunt dolore magna aliqua minim veniam nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "profession": "CEO",
+    "stars": 4
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "menuItems": [
+      {
+        "name": "Home",
+        "link": "#home"
+      },
+      {
+        "name": "How we work",
+        "link": "#how-it-works"
+      },
+      {
+        "name": "Features",
+        "link": "#features"
+      },
+      {
+        "name": "Resources",
+        "link": "#resources"
+      },
+      {
+        "name": "Contact us",
+        "link": "#contact"
+      }
+    ]
+  } 

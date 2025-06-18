@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "/images/f-1.png",
+    "title": "Smart Matching",
+    "description": "Quickly connect with jobs or candidates that align with your skills and goals."
+  },
+  {
+    "icon": "/images/f-2.png",
+    "title": "CV Upload + Profile Completeness",
+    "description": "Upload your resume and complete your profile to attract the right opportunities."
+  },
+  {
+    "icon": "/images/f-3.png",
+    "title": "Direct Chat",
+    "description": "Start real-time conversations between recruiters and candidates — no gatekeepers."
+  },
+  {
+    "icon": "/images/f-4.png",
+    "title": "Basic Analytics",
+    "description": "Track profile views and applications to understand engagement and interest."
+  }
+]
