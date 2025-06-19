@@ -28,7 +28,7 @@ function OurCore() {
         <span>DeFi protocol transaction tracking and reconciliation</span>
       </div>
     </div>
-  </div>
+  </div>  
     </div>
   )
 }

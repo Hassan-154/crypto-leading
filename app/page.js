@@ -35,7 +35,6 @@ export default function page() {
       <section id="">
         <ProcessSection />
       </section>
-
       <section id="">
       <OurCore/>
       </section>

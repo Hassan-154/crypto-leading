@@ -5,20 +5,12 @@
         "link": "#home"
       },
       {
-        "name": "How we work",
-        "link": "#how-it-works"
+        "name": "About",
+        "link": "#About"
       },
       {
-        "name": "Features",
-        "link": "#features"
-      },
-      {
-        "name": "Resources",
-        "link": "#resources"
-      },
-      {
-        "name": "Contact us",
-        "link": "#contact"
+        "name": "Service",
+        "link": "#Service"
       }
     ]
   } 
