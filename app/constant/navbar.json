@@ -2,15 +2,15 @@
     "menuItems": [
       {
         "name": "Home",
-        "link": "#home"
+        "link": "/home"
       },
       {
         "name": "About",
-        "link": "#About"
+        "link": "/about"
       },
       {
         "name": "Service",
-        "link": "#Service"
+        "link": "/service"
       }
     ]
   } 
