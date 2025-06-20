@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <main className="pt-16 w-full">
           {children}
         </main>
-        {/* <Footer/> */}
+        <Footer/>
       </body>
     </html>
   );

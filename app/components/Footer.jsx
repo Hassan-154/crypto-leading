@@ -30,7 +30,7 @@ function Footer() {
               {navData.menuItems.map((item, index) => (
                 <li key={index}> <a
 
-                  href={item.link}
+                  href={`/pages${item.link}`}
                   className=" hover:text-gray-700 block lg:inline md:px-3 py-1 md:py-2 lg:p-0 text-base lg:text-[15px] lg:font-thin"
                 >
                   {item.name}

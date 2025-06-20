@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 function Home() {
     return (
-        <div className='lg:h-[90vh] pb-[15px] lg:pb-0 max-w-6xl mx-auto flex flex-col lg:flex-row lg:gap-[10px] items-center justify-center px-3 sm:px-4 xl:px-0'>
+        <div className='lg:h-[90vh] pt-[15px] sm:lg:pt-0 pb-[15px] lg:pb-0 max-w-6xl mx-auto flex flex-col lg:flex-row lg:gap-[10px] items-center justify-center px-3 sm:px-4 xl:px-0'>
             <div data-aos="fade-right" className='w-2/2 lg:w-[55%] flex flex-col gap-[20px]'>
                 <h1 className='text-[37.8px] leading-[45px] sm:text-[59.4px] sm:leading-[66.33px] text-black font-medium'>Crypto's Leading <br></br> <span className='text-periwinkle-blue font-roslindale italic'>
                     Accounting</span> & Tax Firm</h1>

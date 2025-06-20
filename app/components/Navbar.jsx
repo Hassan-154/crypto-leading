@@ -29,6 +29,7 @@ const NavBar = () => {
                 <Link
                   key={index}
                   href={`/pages${item.link}`}
+                  onClick={() => setIsOpen(false)}
                   className="text-black hover:text-gray-700 block lg:inline px-3 py-2 lg:p-0 text-base lg:text-[15px] lg:font-thin"
                 >
                   {item.name}
