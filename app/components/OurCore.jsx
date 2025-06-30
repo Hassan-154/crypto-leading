@@ -9,23 +9,23 @@ function OurCore() {
     <div className="grid md:grid-cols-2 gap-5 sm:gap-6 text-md sm:text-lg">
       <div className="flex items-start space-x-3">
         <CheckCircle className="w-5 h-5 sm:w-6 sm:h-6 text-periwinkle-blue mt-1 sm:mt-0.5 flex-shrink-0" />
-        <span>Crypto and NFT taxation for the UK, US & global markets</span>
+        <span className='text-gray-700'>Crypto and NFT taxation for the UK, US & global markets</span>
       </div>
       <div className="flex items-start space-x-3">
         <CheckCircle className="w-5 h-5 sm:w-6 sm:h-6 text-periwinkle-blue mt-1 sm:mt-0.5 flex-shrink-0" />
-        <span>Blockchain-based bookkeeping and reconciliation</span>
+        <span className='text-gray-700'>Blockchain-based bookkeeping and reconciliation</span>
       </div>
       <div className="flex items-start space-x-3">
         <CheckCircle className="w-5 h-5 sm:w-6 sm:h-6 text-periwinkle-blue mt-1 sm:mt-0.5 flex-shrink-0" />
-        <span>Tax planning, loss harvesting, and entity structuring</span>
+        <span className='text-gray-700'>Tax planning, loss harvesting, and entity structuring</span>
       </div>
       <div className="flex items-start space-x-3">
         <CheckCircle className="w-5 h-5 sm:w-6 sm:h-6 text-periwinkle-blue mt-1 sm:mt-0.5 flex-shrink-0" />
-        <span>Financial forecasting for Web3 and e-commerce startups</span>
+        <span className='text-gray-700'>Financial forecasting for Web3 and e-commerce startups</span>
       </div>
       <div className="flex items-start space-x-3">
         <CheckCircle className="w-5 h-5 sm:w-6 sm:h-6 text-periwinkle-blue mt-1 sm:mt-0.5 flex-shrink-0" />
-        <span>DeFi protocol transaction tracking and reconciliation</span>
+        <span className='text-gray-700'>DeFi protocol transaction tracking and reconciliation</span>
       </div>
     </div>
   </div>  

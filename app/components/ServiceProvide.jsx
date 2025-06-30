@@ -13,14 +13,14 @@ function ServiceProvide() {
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Crypto Tax Calculation</h2>
               </div>
 
-              <p className="text-md sm:text-[16px] leading-relaxed">
+              <p className="text-gray-700 text-md sm:text-[16px] leading-relaxed">
                 Accurately calculate your crypto taxes across wallets, exchanges, DeFi platforms, and NFTs. At
                 Definite Accounting, we simplify the complexities of digital asset taxation by reconciling all your
                 crypto transactions and applying local tax laws (UK, US & beyond) to determine your capital gains,
                 losses, income, and allowable deductions.
               </p>
 
-              <p className="text-md sm:text-[16px] leading-relaxed">
+              <p className="text-gray-700 text-md sm:text-[16px] leading-relaxed">
                 Whether you're an investor, trader, or Web3 founder, we generate clean, audit-ready tax reports that
                 help you stay compliant while optimizing your tax outcomes. We handle everything—from wallet imports
                 and transaction matching to staking income and DeFi activity.

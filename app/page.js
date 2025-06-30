@@ -13,7 +13,7 @@ export default function page() {
   }, []);
 
   return (
-    <main className="scroll-smooth">
+    <main className=" scroll-smooth">
       <Home />
     </main>
   );
