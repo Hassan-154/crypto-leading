@@ -6,8 +6,8 @@ function Home() {
     return (
         <div className='lg:h-[90vh] pt-[15px] sm:lg:pt-0 pb-[15px] lg:pb-0 max-w-6xl mx-auto flex flex-col lg:flex-row lg:gap-[10px] items-center justify-center px-3 sm:px-4 xl:px-0'>
             <div data-aos="fade-right" className='w-2/2 lg:w-[55%] flex flex-col gap-[20px]'>
-                <h1 className='text-[37.8px] leading-[45px] sm:text-[59.4px] sm:leading-[66.33px] text-black font-medium'>Crypto's Leading <br></br> <span className='text-periwinkle-blue font-roslindale italic'>
-                    Accounting</span> & Tax Firm</h1>
+                <h1 className='text-[37.8px] leading-[45px] sm:text-[59.4px] sm:leading-[66.33px] text-black font-bold'>Crypto's Leading <br></br> <span className='text-periwinkle-blue font-roslindale italic'>
+                    Accounting</span> & <span className='text-periwinkle-blue font-roslindale italic'>Tax</span> Firm</h1>
                 <p className='max-w-[440px]'>Our elite tax specialists are ready to help you confidently navigate the complexities of your crypto taxes with expert guidance.</p>
                 <div className='flex gap-3'>
                     <Button title="Book Consultation" className="bg-periwinkle-blue hover:bg-periwinkle-blue-hover text-white rounded-md" />
