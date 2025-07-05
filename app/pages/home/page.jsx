@@ -4,6 +4,7 @@ import OurService from '../../components/OurService'
 import TrustedCrypto from '../../components/TrustedCrypto'
 import ProcessSection from '../../components/ProcessSection'
 import OurCore from '../../components/OurCore'
+import FAQ from '@/app/components/FAQ'
 
 function page() {
   return (
