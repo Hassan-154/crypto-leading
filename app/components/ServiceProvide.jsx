@@ -12,21 +12,13 @@ function ServiceProvide() {
               <div className="flex items-center space-x-4 mb-3">
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Crypto Tax Calculation</h2>
               </div>
-
               <p className="text-gray-700 text-md sm:text-[16px] leading-relaxed">
-                Accurately calculate your crypto taxes across wallets, exchanges, DeFi platforms, and NFTs. At
-                Definite Accounting, we simplify the complexities of digital asset taxation by reconciling all your
-                crypto transactions and applying local tax laws (UK, US & beyond) to determine your capital gains,
-                losses, income, and allowable deductions.
+                At Crypto Tax Ease, we simplify the complexities of digital asset taxation by reconciling all your crypto transactions and applying local tax laws (US, UK & beyond) to determine your capital gains, losses, income, and allowable deductions. We Accurately calculate your crypto taxes across wallets, exchanges, DeFi platforms, and NFTs.
               </p>
-
               <p className="text-gray-700 text-md sm:text-[16px] leading-relaxed">
-                Whether you're an investor, trader, or Web3 founder, we generate clean, audit-ready tax reports that
-                help you stay compliant while optimizing your tax outcomes. We handle everything—from wallet imports
-                and transaction matching to staking income and DeFi activity.
+                Whether you’re an investor, trader, or Web3 founder, we generate clean, audit-ready tax reports that help you stay compliant while optimizing your tax outcomes. We handle everything from wallet imports and transaction matching to staking income and DeFi activity.
               </p>
             </div>
-
             <div className="bg-gray-50 rounded-2xl p-8">
               <h3 className="text-xl font-bold text-gray-900 mb-6">What's Included:</h3>
               <div className="space-y-4">
@@ -58,7 +50,7 @@ function ServiceProvide() {
             </div>
           </div>
 
-          {/* Crypto BookKeeping */}
+          {/* Crypto Bookkeeping */}
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div className="order-2 lg:order-1 bg-gray-50 rounded-2xl p-8 mt-3">
               <h3 className="text-xl font-bold text-gray-900 mb-6">What's Included:</h3>
@@ -89,27 +81,18 @@ function ServiceProvide() {
                 </div>
               </div>
             </div>
-
             <div className="order-1 lg:order-2 space-y-6">
               <div className="flex items-center  space-x-4 mb-3">
-                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Crypto BookKeeping</h2>
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Crypto Bookkeeping</h2>
               </div>
-
               <p className="text-md sm:text-[16px] leading-relaxed">
-                We provide specialized bookkeeping services tailored for digital assets. From everyday crypto
-                transactions to complex DeFi activity, Definite Accounting ensures your financial records are clear,
-                categorized, and audit-ready.
+                We provide specialized bookkeeping services tailored for digital assets. From everyday crypto transactions to complex DeFi activity, we ensure your financial records are clear, categorized, and audit-ready.
               </p>
-
               <p className="text-md sm:text-[16px] leading-relaxed">
-                Our crypto bookkeeping service includes transaction tracking, wallet reconciliation, income
-                classification (staking, mining, airdrops), and cost basis calculations—all aligned with local
-                accounting standards and tax regulations.
+                Our crypto bookkeeping service includes transaction tracking, wallet reconciliation, income classification (staking, mining, airdrops), and cost basis calculations all aligned with local accounting standards and tax regulations.
               </p>
-
               <p className="text-md sm:text-[16px] leading-relaxed">
-                Whether you're a trader, investor, NFT creator, or Web3 business, we maintain accurate crypto ledgers
-                that integrate with your financial reporting and tax obligations.
+                Whether you’re a trader, investor, NFT creator, or Web3 business, we maintain accurate crypto ledgers that integrate with your financial reporting and tax obligations.
               </p>
             </div>
           </div>
@@ -118,23 +101,15 @@ function ServiceProvide() {
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div className="space-y-2">
               <div className="flex items-center space-x-4 mb-3">
-                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">TaxAdvisory</h2>
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Tax Advisory</h2>
               </div>
-
               <p className="text-md sm:text-[16px] leading-relaxed">
-                Stay ahead of crypto tax obligations with strategic planning tailored to your goals. At Definite
-                Accounting, we help investors, traders, and Web3 businesses minimize tax exposure and make informed
-                decisions through expert crypto-focused tax advisory.
+                Stay ahead of crypto tax obligations with strategic planning tailored to your goals. Our qualified partners of CPA’s and ACCA’s help investors, traders, and Web3 businesses minimize tax exposure and make informed decisions through expert crypto-focused tax advisory.
               </p>
-
               <p className="text-md sm:text-[16px] leading-relaxed">
-                Our team provides personalized guidance on tax-efficient investment strategies, entity structuring,
-                and timing of asset disposals. Whether you're involved in DeFi, NFTs, staking, or holding crypto as a
-                long-term investment, we ensure your activity aligns with the latest regulations in the UK, US, and
-                beyond.
+                Our team provides personalized guidance on tax-efficient investment strategies, entity structuring, and timing of asset disposals. Whether you're involved in DeFi, NFTs, staking, or holding crypto as a long-term investment, we ensure your activity aligns with the latest regulations in the US, UK, and beyond.
               </p>
             </div>
-
             <div className="bg-gray-50 rounded-2xl p-8">
               <h3 className="text-xl font-bold text-gray-900 mb-6">Advisory Services:</h3>
               <div className="space-y-4">
@@ -148,7 +123,7 @@ function ServiceProvide() {
                   <div className=" flex items-center justify-center flex-shrink-0 mt-0.5">
                     <CheckCircle className="w-5 h-4 sm:w-6 sm:h-5 text-periwinkle-blue" />
                   </div>
-                  <span>Jurisdiction-specific compliance (HMRC, IRS, etc.)</span>
+                  <span>Jurisdiction-specific compliance (IRS, HMRC etc.)</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className=" flex items-center justify-center flex-shrink-0 mt-0.5">
