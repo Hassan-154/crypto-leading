@@ -3,13 +3,14 @@ import Home from '../../components/Home'
 import OurService from '../../components/OurService'
 import TrustedCrypto from '../../components/TrustedCrypto'
 import ProcessSection from '../../components/ProcessSection'
+import CryptoTaxChallenges from '@/app/components/CryptoTaxChallenges'
 import OurCore from '../../components/OurCore'
-import FAQ from '@/app/components/FAQ'
 
 function page() {
   return (
     <>
       <Home />
+      <CryptoTaxChallenges/>
       <OurService />
       <TrustedCrypto />
       <ProcessSection />
