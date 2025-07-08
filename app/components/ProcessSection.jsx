@@ -51,6 +51,19 @@ function ProcessSection() {
               </div>
             </div>
 
+            {/* New Card: Final Review */}
+            <div className="bg-white border-0 shadow-sm hover:shadow-md transition-shadow p-6 rounded-lg">
+              <div className="p-0">
+                <div className="flex items-center justify-center w-14 h-14 bg-[#EFF0FF] rounded-lg mb-6">
+                  <CheckCircle className="w-7 h-8 text-periwinkle-blue" />
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-3">Final Review</h3>
+                <p className="text-gray-600 leading-relaxed">
+                  We run tests to confirm data is accurate, clean and complete.
+                </p>
+              </div>
+            </div>
+
             <div className="bg-white border-0 shadow-sm hover:shadow-md transition-shadow p-6 rounded-lg">
               <div className="p-0">
                 <div className="flex items-center justify-center w-14 h-14 bg-[#EFF0FF] rounded-lg mb-6">

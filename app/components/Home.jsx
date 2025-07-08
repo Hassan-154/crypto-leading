@@ -15,8 +15,8 @@ function Home() {
                 </div>
                 <div className='border-b border-[#CAD5E2]'></div>
                 <div className='flex gap-10'>
-                    <div><span>Successful Reviews</span><h5 className='text-[34px] font-semibold text-space-blue'>510+</h5></div>
-                    <div><span>Clients Satisfaction</span><h5 className='text-[34px] font-semibold text-space-blue'>97%</h5></div>
+                    <div><span>Satisfied Clients</span><h5 className='text-[34px] font-semibold text-space-blue'>500+</h5></div>
+                    <div><span>Retention Rate</span><h5 className='text-[34px] font-semibold text-space-blue'>95%</h5></div>
                 </div>
             </div>
             <div data-aos="fade-left" className='w-2/2 lg:w-[45%] p-4'>
